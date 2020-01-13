@@ -39,7 +39,7 @@ It just applies the basic point operators on a sample image (Lenna). Using the p
 
 The solarization is applied via the following polynom courtesy of Dario Allegra:
 
-![Solarization Polynom](/solarization_polynom/polynom.png)
+![Solarization Polynom](solarization_polynom/polynom.PNG)
 
 ---
 
