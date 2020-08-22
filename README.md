@@ -1,4 +1,4 @@
-# :large_blue_diamond: Affine Transformation of Image Processing
+# :large_blue_diamond: Point Operators of Image Processing
 ![Preview](preview.jpg)
 
 ## About the project
